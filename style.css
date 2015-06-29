@@ -1,0 +1,14 @@
+body {
+    margin: 2em 4em;
+    font-family: 'Roboto', sans-serif;
+}
+header {
+    padding: 0.2em;
+    background-color: powderblue;
+}
+nav {
+    width: 20%; float: right;
+    background-color: lightgoldenrodyellow
+}
+section { width: 75%; margin-top: 2em; margin-right: 3em; }
+a { text-decoration: none; }
